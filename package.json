@@ -1,0 +1,22 @@
+{
+  "name": "bettinggame",
+  "version": "1.0.0",
+  "description": "lhl game",
+  "main": "jquery-2.2.3.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiefer136/BettingGame.git"
+  },
+  "author": "kiefer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiefer136/BettingGame/issues"
+  },
+  "homepage": "https://github.com/kiefer136/BettingGame#readme",
+  "dependencies": {
+    "prompt-sync-history": "^1.0.1"
+  }
+}
